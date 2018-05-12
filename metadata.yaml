@@ -1,0 +1,47 @@
+_repo: The-Tatler-Volume-3_31645
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Addison, Joseph
+    alias: Bickerstaff, Isaac
+    birthdate: &id001 1672
+    deathdate: 1719
+    gutenberg_agent_id: '1024'
+    url: http://www.gutenberg.org/2009/agents/1024
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Addison
+  - agent_name: Steele, Richard, Sir
+    aliases:
+    - Steele, R. (Richard), Sir
+    - Bickerstaff, Isaac
+    - Edgar, John, Sir
+    birthdate: *id001
+    deathdate: 1729
+    gutenberg_agent_id: '984'
+    url: http://www.gutenberg.org/2009/agents/984
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Steele
+  editor:
+    agent_name: Aitken, George Atherton
+    alias: Aitken, George A.
+    birthdate: 1860
+    deathdate: 1917
+    gutenberg_agent_id: '5169'
+    url: http://www.gutenberg.org/2009/agents/5169
+description: ''
+gutenberg_issued: '2010-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor -- Periodicals'
+- !lcsh 'Great Britain -- Politics and government -- 1702-1714 -- Periodicals'
+- !lcc 'PR'
+- !lcsh 'English essays -- 18th century -- Periodicals'
+title: The Tatler, Volume 3
+url: http://www.gutenberg.org/ebooks/31645
